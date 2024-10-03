@@ -1,21 +1,104 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "tanyaclement",
+    "title": "SpokenWeb Anthology",
+    "description": "SpokenWeb Anthology draft for Scholarly Editing",
+    "language": "en",
+    "slug": "sw-2024-anthology",
+    "creator": "tanyaclement",
+    "authors": "Tanya Clement, Matthew Kilbane, Emily Murphy, Nadège Paquette, Rowan Pickard, Karis Shearer, and Trent Wintermeier",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Voice",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Type",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Speaker",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Year",
+          "color": "#88C9F2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "tag": "Michael McClure",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Audience",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Situated",
+          "category": "Voice"
+        },
+        {
+          "tag": "2019",
+          "category": "Year"
+        },
+        {
+          "tag": "1969",
+          "category": "Year"
+        },
+        {
+          "tag": "Daphne Marlatt",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Introducer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Spaces",
+          "category": "Voice"
+        },
+        {
+          "tag": "Muriel Rukeyser",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Environment",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Social",
+          "category": "Voice"
+        }
+      ]
+    },
+    "created_at": "2024-10-03T00:51:02.674Z",
+    "updated_at": "2024-10-03T00:51:02.674Z"
   }
 }
