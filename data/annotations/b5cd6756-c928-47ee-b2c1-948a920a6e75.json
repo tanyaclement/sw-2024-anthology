@@ -1,5 +1,574 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 19,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Marlatt introduces the event."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        }
+      ],
+      "uuid": "8107b890-a2c9-4abf-aa68-942780210c0b"
+    },
+    {
+      "start_time": 20,
+      "end_time": 133,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Marlatt provides an introduction to leaf leaf/s and the poems, explaining that they were written at a point when she was \"trying to figure out who [she] was\" and \"trying to figure out language.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        }
+      ],
+      "uuid": "9841e280-3583-4069-aad0-405d8fa3b1c1"
+    },
+    {
+      "start_time": 140,
+      "end_time": 210,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The 1969 recording of Marlatt reading leaf leaf/s is played."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "1969",
+          "category": "Year"
+        }
+      ],
+      "uuid": "b29e2122-e1dd-4c47-b59c-242e09854b7d"
+    },
+    {
+      "start_time": 210,
+      "end_time": 295,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Marlatt reads her poems aloud from where the 1969 recording left off."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "2019",
+          "category": "Year"
+        }
+      ],
+      "uuid": "be2961bc-981a-4883-94ab-e08e5889b7bf"
+    },
+    {
+      "start_time": 300,
+      "end_time": 354,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The 1969 recording of Marlatt reading leaf leaf/s is played."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "1969",
+          "category": "Year"
+        }
+      ],
+      "uuid": "d74d45a4-142e-4011-bc1d-7fbdc10c8407"
+    },
+    {
+      "start_time": 355,
+      "end_time": 390,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Marlatt provides some background on the inspirations behind the poem played aloud through the recording."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "2019",
+          "category": "Year"
+        }
+      ],
+      "uuid": "52c6ae37-834d-482f-8842-05024cd895a0"
+    },
+    {
+      "start_time": 392,
+      "end_time": 408,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Marlatt decides between reading one or two more poems from leaf leaf/s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "2019",
+          "category": "Year"
+        }
+      ],
+      "uuid": "53336e69-e002-48e7-af63-1594ac302637"
+    },
+    {
+      "start_time": 409,
+      "end_time": 435,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Marlatt reads her poems aloud."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "2019",
+          "category": "Year"
+        }
+      ],
+      "uuid": "3715dd79-f79f-4cf2-82a7-96c41e495904"
+    },
+    {
+      "start_time": 443,
+      "end_time": 477,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The 1969 recording of Marlatt reading leaf leaf/s is played."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "1969",
+          "category": "Year"
+        }
+      ],
+      "uuid": "93e3fb1c-8560-4998-8a9e-a7f879025788"
+    },
+    {
+      "start_time": 485,
+      "end_time": 495,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You never know, when you're preparing for a reading, you feel like reading one poem and then when you get up there, you feel like reading another."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Daphne Marlatt",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "tag": "Social",
+          "category": "Voice"
+        }
+      ],
+      "uuid": "e612e4f3-6e79-4df5-98fa-6077b7b8feef"
+    },
+    {
+      "start_time": 485,
+      "end_time": 495,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Laughter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Situated",
+          "category": "Voice"
+        },
+        {
+          "tag": "2019",
+          "category": "Year"
+        }
+      ],
+      "uuid": "2f881e19-4b83-4139-b15f-6dcd5da88aeb"
+    },
+    {
+      "start_time": 495,
+      "end_time": 506,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Marlatt introduces the second part of leaf leaf/s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "2019",
+          "category": "Year"
+        }
+      ],
+      "uuid": "dba30990-7e38-4d6d-9def-1d7678ab0532"
+    },
+    {
+      "start_time": 508,
+      "end_time": 560,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Marlatt reads her poems aloud."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "2019",
+          "category": "Year"
+        }
+      ],
+      "uuid": "f0f7db55-0740-4cf7-9a9d-7282bcad14c5"
+    },
+    {
+      "start_time": 568,
+      "end_time": 667,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The 1969 recording of Marlatt reading leaf leaf/s is played."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "1969",
+          "category": "Year"
+        }
+      ],
+      "uuid": "c21299a4-77a3-407e-a02d-17de2cca8904"
+    },
+    {
+      "start_time": 671,
+      "end_time": 677,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Marlatt prefaces the next and final poem that she will read aloud."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaking",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "2019",
+          "category": "Year"
+        }
+      ],
+      "uuid": "d660efab-a602-40fb-9ee8-f97cc81738bb"
+    },
+    {
+      "start_time": 677,
+      "end_time": 701,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Marlatt reads the last poem for the event out loud."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reading",
+          "category": "Voice"
+        },
+        {
+          "tag": "Notes",
+          "category": "Type"
+        },
+        {
+          "tag": "2019",
+          "category": "Year"
+        }
+      ],
+      "uuid": "db8df1b5-5129-4da9-a241-fb8014d5a4b4"
+    }
+  ],
   "set": "Default",
   "event_id": "56aeeacc-3991-43cd-9c05-a26073684020",
   "source_id": "39ed958c-e0f4-4f9c-be96-8ddea53da3b2"
