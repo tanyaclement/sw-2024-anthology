@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "tanyaclement",
     "title": "SpokenWeb Anthology",
@@ -111,6 +117,8 @@
       ]
     },
     "created_at": "2024-10-03T00:51:02.674Z",
-    "updated_at": "2024-10-14T22:21:16.226Z"
+    "updated_at": "2024-10-14T22:21:16.226Z",
+    "is_private": false,
+    "generate_pages_site": true
   }
 }
